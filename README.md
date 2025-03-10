@@ -18,3 +18,7 @@ LSTM：轻量级时序模型，支持TF-IDF/Word2Vec特征输入
 优化策略
 随机搜索超参数调优（学习率/隐藏层维度/批次大小）
 学习率动态衰减策略（验证集准确率91.58%）
+
+
+效果：
+![QQ截图20250310170719](https://github.com/user-attachments/assets/fe757336-aa8c-4dea-8c1f-38553a5ab996)
